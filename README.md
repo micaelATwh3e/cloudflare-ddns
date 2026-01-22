@@ -1,4 +1,5 @@
-# 🌐 Cloudflare Dynamic DNS Updater[![Hits](https://hits.sh/github.com/micaelATwh3e/cloudflare-ddns.svg)]
+![Visitors](https://stats.wh3e.se/badge/micaelATwh3e/cloudflare-ddns)
+# 🌐 Cloudflare Dynamic DNS Updater
 
 A lightweight Bash-based Dynamic DNS updater for Cloudflare.  
 This script automatically updates one or more **A‑records** on Cloudflare whenever your public IP changes.  
